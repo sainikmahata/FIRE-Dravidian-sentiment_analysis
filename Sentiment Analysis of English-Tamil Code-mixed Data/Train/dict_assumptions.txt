@@ -1,0 +1,7 @@
+Positive	0
+Negative	1
+Mixed_feelings	2
+unknown_state	3
+not_Tamil	4
+5 is english words
+6 is non english words
